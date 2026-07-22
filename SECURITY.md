@@ -1,21 +1,12 @@
 # Security Policy
 
-## Supported Versions
+## Reporting a Vulnerability or Issue
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+We take security and legal matters seriously. For this project, potential issues may include:
+*   Copyright or trademark infringements.
+*   Incorrect or outdated logos.
+*   Problems with file quality.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+If you discover a potential issue, please report it by creating an "Issue" in the GitHub repository.
 
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Please provide a detailed description of the issue, including the file(s) concerned and the nature of the problem. We aim to review and respond to all reports within 7 days.
