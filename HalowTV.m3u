@@ -266,7 +266,8 @@ http://185.95.184.33:25461/live/120541/20364/5587.m3u8
 ---
 --- # GROUP: Sports ---
 ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/main/kurdistansport.png" group-title="Sports",ALW 1
+https://sweet-cell-8a78.yusf-dara1000.workers.dev/playlist.m3u8?url=https://ok.ru/video/17321701940867
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HalowTV/Kurdish-Logo/main/kurdistansport.png" group-title="Sports",ASTERA SPORT TV
 http://185.95.184.33:25461/live/120541/20364/149.m3u8
 
