@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:-1 group-title="Sport",ASTERA SPORT TV
+http://185.95.184.33:25461/live/120541/20364/149.m3u8
+#EXTINF:-1 group-title="Sport",ALWAN SPORT TV
+http://72321912.vipma.site:80/live/Q23U45Y4/24558261/1275547.m3u8
+#EXTINF:-1 group-title="Sport",NRT SPORT TV
+http://185.95.184.33:25461/live/120541/20364/167.m3u8
+#EXTINF:-1 group-title="Sport",GEWHER SPORT TV
+https://iptv-link.short.gy/Gewher_Sport.m3u8
+#EXTINF:-1 group-title="Sport",MMN SPORT TV
+http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
+#EXTINF:-1 group-title="Sport",ZAYTOUN SPORT TV
+https://barham.short.gy/zvgsport.m3u8
+#EXTINF:-1 group-title="Sport",DUHOK SPORT TV
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/987920.ts
+#EXTINF:-1 group-title="Sport",AVA SPORT TV
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/1858987.ts
+#EXTINF:-1 group-title="Sport",4SPORT TV HD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/1858986.ts
+#EXTINF:-1 group-title="Sport",ALKASS TV HD
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1 group-title="Sport",MMN SPORT TV
+http://185.95.184.33:25461/live/120541/20364/213.m3u8
+#EXTINF:-1 group-title="Sport",IRAQIA SPORT TV
+http://185.95.184.33:25461/live/120541/20364/3908.m3u8
+#EXTINF:-1 group-title="Sport",DASINYA SPORT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1667803&extension=ts
+#EXTINF:-1 group-title="Sport",BEIN SPORT NEWS HD
+http://iptvhouse.pro:80/live/7598066813/503118f6f7/544476.m3u8
+#EXTINF:-1 group-title="Sport",BEIN SPORT 1 8K SD
+http://iptvhouse.pro:80/live/7598066813/503118f6f7/544474.m3u8
+#EXTINF:-1 group-title="Sport",BEIN SPORT 2 8K SD
+http://iptvhouse.pro:80/live/7598066813/503118f6f7/544473.m3u8
+#EXTINF:-1 tvg-logo="https://www.rudaw.net/images/logo.svg" group-title="News",RUDAW TV
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.kurdsatnews.com/images/logo.png" group-title="News",KURDSAT NEWS TV
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8",NUÇÊ TV
+https://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8
+#EXTINF:-1 group-title="News",NRT TV HD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/818054.ts
+#EXTINF:-1 group-title="News",NRT TV SD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/818053.ts
+#EXTINF:-1 group-title="News",CHANNEL 8
+https://live.channel8.com/Channel8-Kurdish/index.m3u8
+#EXTINF:-1 group-title="News",MMN NEWS TV
+http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
+#EXTINF:-1 group-title="News",NRT4 TV HD
+http://185.95.184.33:25461/live/120541/20364/156.m3u8
+#EXTINF:-1 group-title="News",AR | SHARQIA NEWS
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 group-title="News",AR | AL JAZEERA
+https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
+#EXTINF:-1 group-title="News",AR | AL ARABIA NEWS
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+#EXTINF:-1 group-title="News",AR | BEIN NEWS TV
+http://185.95.184.33:25461/live/120541/20364/4767.m3u8
+#EXTINF:-1 group-title="News",AR | AL HADATH TV
+http://185.95.184.33:25461/live/120541/20364/4724.m3u8
+#EXTINF:-1 group-title="News",AR | AL ARABIA TV
+http://185.95.184.33:25461/live/120541/20364/171.m3u8
+#EXTINF:-1 group-title="News",TRT NEWS/HABER TV
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="News",SKY NEWS TV
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 group-title="News",CNN TV HD
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="News",IRAQIA NEWS
+https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
+#EXTINF:-1 group-title="Kurdish",AVA MEDIA TV
+https://ava2.store/upload/ava.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Www.24.krd.png/1200px-Www.24.krd.png" group-title="Kurdish",KURDISTAN 24 TV
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/324572.ts
+#EXTINF:-1 tvg-logo="https://www.speda.net/logo/speda.png" group-title="Kurdish",SPEDA TV HD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/324587.ts
+#EXTINF:-1 group-title="Kurdish",GALI KURDISTAN TV
+http://185.95.184.33:25461/live/120541/20364/182.m3u8
+#EXTINF:-1 group-title="Kurdish",KIRKUK TV HD
+https://live.kirkuklive.live/hls/stream/index.m3u8
+#EXTINF:-1 group-title="Kurdish",BMC TV HD
+http://185.95.184.33:25461/live/120541/20364/88.m3u8
+#EXTINF:-1 group-title="Kurdish",ZED PLUS+ TV
+http://185.95.184.33:25461/live/120541/20364/99.m3u8
+#EXTINF:-1 group-title="Kurdish",SLEMANI TV HD
+http://185.95.184.33:25461/live/120541/20364/102.m3u8
+#EXTINF:-1 group-title="Kurdish",DERWAZA TV HD
+http://185.95.184.33:25461/live/120541/20364/104.m3u8
+#EXTINF:-1 group-title="Kurdish",HALABJA TV HD
+http://185.95.184.33:25461/live/120541/20364/107.m3u8
+#EXTINF:-1 group-title="Kurdish",JK TV HD
+http://185.95.184.33:25461/live/120541/20364/108.m3u8
+#EXTINF:-1 group-title="Kurdish",MIX TV HD
+http://185.95.184.33:25461/live/120541/20364/124.m3u8
+#EXTINF:-1 group-title="Kurdish",NISHTIMANI MN TV
+http://185.95.184.33:25461/live/120541/20364/126.m3u8
+#EXTINF:-1 group-title="Kurdish",U TV 2
+http://185.95.184.33:25461/live/120541/20364/169.m3u8
+#EXTINF:-1 group-title="Kurdish",AFARIN TV HD
+http://185.95.184.33:25461/live/120541/20364/196.m3u8
+#EXTINF:-1 group-title="Kurdish",CN ARABIA TV
+http://185.95.184.33:25461/live/120541/20364/198.m3u8
+#EXTINF:-1 group-title="Kurdish",ALWAN Z TV
+http://185.95.184.33:25461/live/120541/20364/223.m3u8
+#EXTINF:-1 group-title="Kurdish",ASTERA KULTUR TV
+http://185.95.184.33:25461/live/120541/20364/199.m3u8
+#EXTINF:-1 group-title="Kurdish",AZADI TV HD
+http://185.95.184.33:25461/live/120541/20364/4694.m3u8
+#EXTINF:-1 group-title="Kurdish",BANGAWAZ TV HD
+http://185.95.184.33:25461/live/120541/20364/192.m3u8
+#EXTINF:-1 group-title="Kurdish",ZNAR TV HD
+http://185.95.184.33:25461/live/120541/20364/161.m3u8
+#EXTINF:-1 tvg-logo="https://kurdistantv.net/Web/media/logo.png" group-title="Kurdish",KURDISTAN TV HD
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Kurdish",ZAXO TV HD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/987958.ts
+#EXTINF:-1 group-title="Kurdish",U TV HEWLER HD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/324667.ts
+#EXTINF:-1 group-title="Kurdish",SHAR TV HD
+http://avrstream.com:1935/live/SHARTV/playlist.m3u8
+#EXTINF:-1 group-title="Kurdish",AVAR TV HD
+https://avr.host247.net/live/AvarTv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.kurdsat.tv/images/logofull.png" group-title="Kurdish",KURDSAT TV HD
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+#EXTINF:-1 group-title="Kurdish",WELAT TV HD
+https://stream.badinan.xyz/welat/tv/playlist.m3u8
+#EXTINF:-1 group-title="Kurdish",BAHRA TV HD
+http://51.89.152.180:80/live/BahraHD/chunks.m3u8
+#EXTINF:-1 group-title="Kurdish",BASK TV HD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/987905.ts
+#EXTINF:-1 group-title="Kurdish",EURO KURD TV
+http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8
+#EXTINF:-1 group-title="Kurdish",GK+ TV HD
+https://live.host247.net/gk/gkplus/playlist.m3u8
+#EXTINF:-1 group-title="Kurdish",IKURD TV HD
+https://lbgo.bozztv.com/ssh101/ssh101/kurd26/playlist.m3u8
+#EXTINF:-1 group-title="Kurdish",PESHANG TV HD
+https://stream.forcaroo.com/stream/hls/desktop.m3u8
+#EXTINF:-1 group-title="Kurdish",RED TV HD
+http://avrstream.com:1935/live/REDTV/playlist.m3u8
+#EXTINF:-1 group-title="Kurdish",KURD7 TV HD
+http://avrstream.com:1935/live/Kurd7HD/playlist.m3u8
+#EXTINF:-1 group-title="Kurdish",HOMZHYAR TV HD
+http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
+#EXTINF:-1 group-title="Kurdish",GEWHER TV HD
+https://iptv-link.short.gy/Gewher.m3u8
+#EXTINF:-1 group-title="Kurdish",WAAR TV HD
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.avaentertainment.net/img/logos/logo-white.png" group-title="Kurdish",AVA FAMILY TV
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Kurdish",KHAK TV HD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/1859024.ts
