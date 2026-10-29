@@ -1,0 +1,664 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.rudaw.net/images/logo.svg",RUDAW TV
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+
+#EXTINF:-1,AVA MEDIA TV
+https://ava2.store/upload/ava.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Www.24.krd.png/1200px-Www.24.krd.png",KURDISTAN 24 TV
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/324572.ts
+
+#EXTINF:-1 tvg-logo="https://www.speda.net/logo/speda.png",SPEDA TV HD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/324587.ts
+
+#EXTINF:-1,GALI KURDISTAN TV
+http://185.95.184.33:25461/live/120541/20364/182.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.kurdsatnews.com/images/logo.png",KURDSAT NEWS TV
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+
+#EXTINF:-1,NUÇÊ TV
+https://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8
+
+#EXTINF:-1,NRT TV HD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/818054.ts
+
+#EXTINF:-1,NRT TV SD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/818053.ts
+
+#EXTINF:-1,CHANNEL 8
+https://live.channel8.com/Channel8-Kurdish/index.m3u8
+
+#EXTINF:-1,MMN NEWS TV
+http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
+
+#EXTINF:-1,KIRKUK TV HD
+https://live.kirkuklive.live/hls/stream/index.m3u8
+
+#EXTINF:-1,BMC TV HD
+http://185.95.184.33:25461/live/120541/20364/88.m3u8
+
+#EXTINF:-1,ZED PLUS+ TV
+http://185.95.184.33:25461/live/120541/20364/99.m3u8
+
+#EXTINF:-1,SLEMANI TV HD
+http://185.95.184.33:25461/live/120541/20364/102.m3u8
+
+#EXTINF:-1,DERWAZA TV HD
+http://185.95.184.33:25461/live/120541/20364/104.m3u8
+
+#EXTINF:-1,HALABJA TV HD
+http://185.95.184.33:25461/live/120541/20364/107.m3u8
+
+#EXTINF:-1,JK TV HD
+http://185.95.184.33:25461/live/120541/20364/108.m3u8
+
+#EXTINF:-1,MIX TV HD
+http://185.95.184.33:25461/live/120541/20364/124.m3u8
+
+#EXTINF:-1,NISHTIMANI MN TV
+http://185.95.184.33:25461/live/120541/20364/126.m3u8
+
+#EXTINF:-1,ASTERA SPORT TV
+http://185.95.184.33:25461/live/120541/20364/149.m3u8
+
+#EXTINF:-1,U TV 2
+http://185.95.184.33:25461/live/120541/20364/169.m3u8
+
+#EXTINF:-1,ASTERA MOVIES TV
+http://185.95.184.33:25461/live/120541/20364/172.m3u8
+
+#EXTINF:-1,AFARIN TV HD
+http://185.95.184.33:25461/live/120541/20364/196.m3u8
+
+#EXTINF:-1,CN ARABIA TV
+http://185.95.184.33:25461/live/120541/20364/198.m3u8
+
+#EXTINF:-1,SAUDI SUNNAH TV
+http://185.95.184.33:25461/live/120541/20364/203.m3u8
+
+#EXTINF:-1,RASULULLAH TV
+http://185.95.184.33:25461/live/120541/20364/3904.m3u8
+
+#EXTINF:-1,ALWAN Z TV
+http://185.95.184.33:25461/live/120541/20364/223.m3u8
+
+#EXTINF:-1,ASTERA KULTUR TV
+http://185.95.184.33:25461/live/120541/20364/199.m3u8
+
+#EXTINF:-1,AZADI TV HD
+http://185.95.184.33:25461/live/120541/20364/4694.m3u8
+
+#EXTINF:-1,RENG DOCUMENTARY TV
+http://185.95.184.33:25461/live/120541/20364/186.m3u8
+
+#EXTINF:-1,BANGAWAZ TV HD
+http://185.95.184.33:25461/live/120541/20364/192.m3u8
+
+#EXTINF:-1,QALLAM TV ISLAMIC
+http://185.95.184.33:25461/live/120541/20364/3900.m3u8
+
+#EXTINF:-1,ZNAR TV HD
+http://185.95.184.33:25461/live/120541/20364/161.m3u8
+
+#EXTINF:-1 tvg-logo="https://kurdistantv.net/Web/media/logo.png",KURDISTAN TV HD
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+
+#EXTINF:-1,ZAXO TV HD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/987958.ts
+
+#EXTINF:-1,U TV HEWLER HD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/324667.ts
+
+#EXTINF:-1,SHAR TV HD
+http://avrstream.com:1935/live/SHARTV/playlist.m3u8
+
+#EXTINF:-1,AVAR TV HD
+https://avr.host247.net/live/AvarTv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.kurdsat.tv/images/logofull.png",KURDSAT TV HD
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+
+#EXTINF:-1,WELAT TV HD
+https://stream.badinan.xyz/welat/tv/playlist.m3u8
+
+#EXTINF:-1,BAHRA TV HD
+http://51.89.152.180:80/live/BahraHD/chunks.m3u8
+
+#EXTINF:-1,BASK TV HD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/987905.ts
+
+#EXTINF:-1,EURO KURD TV
+http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8
+
+#EXTINF:-1,GK+ TV HD
+https://live.host247.net/gk/gkplus/playlist.m3u8
+
+#EXTINF:-1,IKURD TV HD
+https://lbgo.bozztv.com/ssh101/ssh101/kurd26/playlist.m3u8
+
+#EXTINF:-1,PESHANG TV HD
+https://stream.forcaroo.com/stream/hls/desktop.m3u8
+
+#EXTINF:-1,RED TV HD
+http://avrstream.com:1935/live/REDTV/playlist.m3u8
+
+#EXTINF:-1,KURD7 TV HD
+http://avrstream.com:1935/live/Kurd7HD/playlist.m3u8
+
+#EXTINF:-1,HOMZHYAR TV HD
+http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
+
+#EXTINF:-1,GEWHER TV HD
+https://iptv-link.short.gy/Gewher.m3u8
+
+#EXTINF:-1,WAAR TV HD
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.avaentertainment.net/img/logos/logo-white.png",AVA FAMILY TV
+https://familyhls.avatv.live/hls/stream.m3u8
+
+#EXTINF:-1,KHAK TV HD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/1859024.ts
+
+#EXTINF:-1,PAYAM TV HD
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+
+#EXTINF:-1,4KURD TV HD
+https://4kuhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1,AlTERNATIVE SHARAY TV
+https://hlspackager.akamaized.net/live/DB/ALTERNATIVE_SHORAI_TV/HLS/ALTERNATIVE_SHORAI_TV-avc1_1500000=10001.m3u8
+
+#EXTINF:-1,CAN TV HD
+https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
+
+#EXTINF:-1,CIRA TV HD
+https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://jintv.net/img/logo.png",JIN TV HD
+https://live.jintv.org/medialive/jintv.m3u8
+
+#EXTINF:-1,KURD CHANNEL TV
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/995918.ts
+
+#EXTINF:-1,MMN DOCUMENTARY TV
+http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
+
+#EXTINF:-1,SHNA TV HD
+https://lbgo.bozztv.com/ssh101/ssh101/shna12345/chunks.m3u8?lb_backend_hint=7
+
+#EXTINF:-1,MIX TV HD
+http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
+
+#EXTINF:-1,NAQSHI MEDIA TV
+http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
+
+#EXTINF:-1,REHBER TV HD
+https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,SORAN ENTERTAIMENT TV
+http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
+
+#EXTINF:-1,BAHA TV HD
+http://baskhd.ddns.net:40/live/baskhd/yusfstore.m3u8
+
+#EXTINF:-1,SADA TV HD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/1858968.ts
+
+#EXTINF:-1,SAHAR TV HD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/324589.ts
+
+#EXTINF:-1,NIGA FAMILY TV
+http://185.95.184.33:25461/live/120541/20364/110.m3u8
+
+#EXTINF:-1,ARO FAMILY TV
+http://185.95.184.33:25461/live/120541/20364/128.m3u8
+
+#EXTINF:-1,NRT4 TV HD
+http://185.95.184.33:25461/live/120541/20364/156.m3u8
+
+#EXTINF:-1 tvg-logo="https://kurdmaxcms.com/asset/image/footer_logo/%D9%A1_1.png",KURDMAX TV HD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/324575.ts
+
+#EXTINF:-1 tvg-logo="https://kurdmaxcms.com/asset/image/footer_logo/show_2.png",KURDMAX SHOW TV
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/324577.ts
+
+#EXTINF:-1,BARIN MOVIES TV
+https://cdn.karwan.tv/barin-movies/index.m3u8
+
+#EXTINF:-1,BARIN FAMILY TV
+http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8
+
+#EXTINF:-1,NEW FAMILY TV
+https://cdn.karwan.tv/bnar-family/index.m3u8
+
+#EXTINF:-1,NEW MOVIES TV
+https://cdn.karwan.tv/bnar-movies/index.m3u8
+
+#EXTINF:-1,NEW ACTION TV
+https://cdn.karwan.tv/bnar-action/index.m3u8
+
+#EXTINF:-1,ZHIN FILM TV
+https://183.bozztv.com/giatv/giatv-zhintv/zhintv/playlist.m3u8
+
+#EXTINF:-1,MMN ART TV
+http://mmn.mypsx.net:1935/live/mmnhdmovies/playlist.m3u8
+
+#EXTINF:-1,MMN ACTION TV
+http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8
+
+#EXTINF:-1,SPEDA DRAMA TV
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/1858950.ts
+
+#EXTINF:-1,KURDCINEMA ACTION 1 TV
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/1859074.ts
+
+#EXTINF:-1,KURDCIMENA KIDS1 TV
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/1859053.ts
+
+#EXTINF:-1,KURDCINEMA COMEDY TV
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/1859045.ts
+
+#EXTINF:-1,PELISTANK TV HD
+http://185.95.184.33:25461/live/120541/20364/187.m3u8
+
+#EXTINF:-1,MMN KIDS TV
+http://185.95.184.33:25461/live/120541/20364/209.m3u8
+
+#EXTINF:-1,BARIN QURAN TV
+http://185.95.184.33:25461/live/120541/20364/4326.m3u8
+
+#EXTINF:-1,ZAROK TV KURMANJI
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+
+#EXTINF:-1,ZAROK TV HD
+https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8
+
+#EXTINF:-1,GEWHER KIDS TV
+https://iptv-link.short.gy/Gewher_Kids.m3u8
+
+#EXTINF:-1,KIDCO TV HD
+http://avrstream.com:1935/live/kidcohd/playlist.m3u8
+
+#EXTINF:-1,NRT3 TV HD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/324608.ts
+
+#EXTINF:-1,ZOOMOO TV HD
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,TOM AND JERRY TV
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1,RYAN AND FREINDS TV
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,ROYA TV HD
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
+
+#EXTINF:-1,ABC KIDS TV
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1,BABY SHARK TV
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
+
+#EXTINF:-1,MARAYA KIDS TV
+https://live.kwikmotion.com/smckidslive/tjkids1.smil/smckidspublish/tjkids1_source/chunks.m3u8
+
+#EXTINF:-1,SROSHT TV HD
+http://185.95.184.33:25461/live/120541/20364/159.m3u8
+
+#EXTINF:-1,NIGA KIDS TV
+http://185.95.184.33:25461/live/120541/20364/193.m3u8
+
+#EXTINF:-1,TASAWF TV HD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/987962.ts
+
+#EXTINF:-1,BANGAWAZ TV HD
+http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
+
+#EXTINF:-1,AMOZHGARI TV HD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/324677.ts
+
+#EXTINF:-1,ACADEMY AMOZHGARI TV
+https://app-live.org/live/a267c1b3/index.m3u8
+
+#EXTINF:-1,EMAN TV HD
+https://avr.host247.net/live/emantv/playlist.m3u8
+
+#EXTINF:-1,FARMOODA TV HD
+https://avr.host247.net/live/FarmodaTV/playlist.m3u8
+
+#EXTINF:-1,WALLA QURAN TV
+http://cdn.karwan.tv/WALAQURAN/index.m3u8
+
+#EXTINF:-1,IMK TV HD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/1858961.ts
+
+#EXTINF:-1,IMK QURAN TV
+http://avrstream.com:1935/live/IMKQURANHD/playlist.m3u8
+
+#EXTINF:-1,ESRA TV HD
+https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/chunks.m3u8
+
+#EXTINF:-1,ESRA TV HD 2
+https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/chunks.m3u8
+
+#EXTINF:-1,ESRA QURAN TV
+https://live20.bozztv.com/giatv/giatv-esraquran_kamalblbas/esraquran_kamalblbas/chunks.m3u8
+
+#EXTINF:-1,SPI QURAN TV
+https://183.bozztv.com/giatv/giatv-spi_quran_hd/spi_quran_hd/playlist.m3u8
+
+#EXTINF:-1,MMN QURAN TV
+http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
+
+#EXTINF:-1,ASHTI QURAN TV
+http://avrstream.com:1935/live/AshtiTV/playlist.m3u8
+
+#EXTINF:-1,MIHRAB FM HD
+http://bblserver.ddns.net:1935/live/mihrabfm/playlist.m3u8
+
+#EXTINF:-1,SOZ QURAN TV
+http://live20.bozztv.com/giatv/giatv-sozquran/sozquran/chunks.m3u8
+
+#EXTINF:-1,SOZ TV HD
+https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
+
+#EXTINF:-1,RAWSHAN TV HD
+http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
+
+#EXTINF:-1,SAUDI QURAN TV
+https://win.holol.com/live/quran/playlist.m3u8
+
+#EXTINF:-1,SAUDI SUNNAH TV
+https://win.holol.com/live/sunnah/playlist.m3u8
+
+#EXTINF:-1,ISLAMIC MEDIA LIVE 1
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+
+#EXTINF:-1,KSA QURAN RADIO
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+
+#EXTINF:-1,ALWAN SPORT TV
+http://72321912.vipma.site:80/live/Q23U45Y4/24558261/1275547.m3u8
+
+#EXTINF:-1,NRT SPORT TV
+http://185.95.184.33:25461/live/120541/20364/167.m3u8
+
+#EXTINF:-1,AR | JAZZIRA DOCUMENTARY TV
+http://185.95.184.33:25461/live/120541/20364/4688.m3u8
+
+#EXTINF:-1,GEWHER SPORT TV
+https://iptv-link.short.gy/Gewher_Sport.m3u8
+
+#EXTINF:-1,MMN SPORT TV
+http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
+
+#EXTINF:-1,ZAYTOUN SPORT TV
+https://barham.short.gy/zvgsport.m3u8
+
+#EXTINF:-1,DUHOK SPORT TV
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/987920.ts
+
+#EXTINF:-1,AVA SPORT TV
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/1858987.ts
+
+#EXTINF:-1,4SPORT TV HD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/1858986.ts
+
+#EXTINF:-1,ALKASS TV HD
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://kurdmaxcms.com/asset/image/footer_logo/music_2.png",KURDMAX MUSIC TV
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/1858993.ts
+
+#EXTINF:-1,MED MUSIC TV
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/324595.ts
+
+#EXTINF:-1,RANYA TV HD
+http://185.95.184.33:25461/live/120541/20364/163.m3u8
+
+#EXTINF:-1,QELLAT TV HD
+http://185.95.184.33:25461/live/120541/20364/4075.m3u8
+
+#EXTINF:-1,KURDMAX PEPULE
+http://185.95.184.33:25461/live/120541/20364/197.m3u8
+#EXTINF:-1,AR | QATAR TV HD
+https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8
+
+#EXTINF:-1,AR | QATAR TV 2
+https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8
+
+#EXTINF:-1,AR | WATAN TV HD
+https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
+
+#EXTINF:-1,AR | ZAGROS TV HD
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+
+#EXTINF:-1,AR | SHARQIA TV
+https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
+
+#EXTINF:-1,AR | ALGHAD TV HD
+https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+
+#EXTINF:-1,AR | SHARQIA NEWS
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
+
+#EXTINF:-1,AR | AL JAZEERA
+https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
+
+#EXTINF:-1,AR | AL ARABIA NEWS
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+
+#EXTINF:-1,PARWARDAYI SLEMANI TV
+https://parwarda.unitedmixmedia.tv/Parwarda/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1,PARWARDAYI DUHOK TV
+https://parwarda.unitedmixmedia.tv/Parwardayi_Duhok/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1,PARWARDAYI HEWLER TV
+https://parwarda.unitedmixmedia.tv/Parwardayi_Hawler/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1,ASMAN TV HD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/1858954.ts
+
+#EXTINF:-1,AR | MBC 1 TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
+
+#EXTINF:-1,AR | MBC 2 TV
+http://185.95.184.33:25461/live/120541/20364/5591.m3u8
+
+#EXTINF:-1,AR | MBC 3 TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+
+#EXTINF:-1,AR | MBC 4 TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+
+#EXTINF:-1,AR | MBC 5 TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+
+#EXTINF:-1,AR | MBC DRAMA TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
+
+#EXTINF:-1,AR | MBC BOLLYWOOD TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+
+#EXTINF:-1,AR | MBC ACTION
+http://185.95.184.33:25461/live/120541/20364/221.m3u8
+
+#EXTINF:-1,AR | MBC IRAQ
+http://185.95.184.33:25461/live/120541/20364/4726.m3u8
+
+#EXTINF:-1,AR | THAMANYAH TV HD
+http://185.95.184.33:25461/live/120541/20364/5588.m3u8
+
+#EXTINF:-1,AR | BEIN MOVIES 2 TV
+http://185.95.184.33:25461/live/120541/20364/5585.m3u8
+
+#EXTINF:-1,AR | NAT GEO TV
+http://185.95.184.33:25461/live/120541/20364/5581.m3u8
+
+#EXTINF:-1,AR | SPACETOON TV HD
+http://185.95.184.33:25461/live/120541/20364/5541.m3u8
+
+#EXTINF:-1,AR | BEIN NEWS TV
+http://185.95.184.33:25461/live/120541/20364/4767.m3u8
+
+#EXTINF:-1,AR | AL HADATH TV
+http://185.95.184.33:25461/live/120541/20364/4724.m3u8
+
+#EXTINF:-1,AR | ONE MOVIES TV
+http://185.95.184.33:25461/live/120541/20364/5542.m3u8
+
+#EXTINF:-1,AR | MAKKAH TV HD
+http://185.95.184.33:25461/live/120541/20364/5574.m3u8
+
+#EXTINF:-1,AR | SHAMS TV HD
+http://185.95.184.33:25461/live/120541/20364/5575.m3u8
+
+#EXTINF:-1,AR | STAR MOVIES TV
+http://185.95.184.33:25461/live/120541/20364/5587.m3u8
+
+#EXTINF:-1,BASK KIDS TV
+http://185.95.184.33:25461/live/120541/20364/5593.m3u8
+
+#EXTINF:-1,ONE KIDS
+http://185.95.184.33:25461/live/120541/20364/5598.m3u8
+
+#EXTINF:-1,RENG KIDS
+http://185.95.184.33:25461/live/120541/20364/204.m3u8
+
+#EXTINF:-1,AR | AL ARABIA TV
+http://185.95.184.33:25461/live/120541/20364/171.m3u8
+
+#EXTINF:-1,NRT 2 TV
+http://185.95.184.33:25461/live/120541/20364/152.m3u8
+
+#EXTINF:-1,NEW LINE 1 TV
+http://185.95.184.33:25461/live/120541/20364/112.m3u8
+
+#EXTINF:-1,NEW LINE 2 TV
+http://185.95.184.33:25461/live/120541/20364/113.m3u8
+
+#EXTINF:-1,DIMEN TV HD
+http://185.95.184.33:25461/live/120541/20364/92.m3u8
+
+#EXTINF:-1,TRAFFIQ FM HD
+http://185.95.184.33:25461/live/120541/20364/5013.m3u8
+
+#EXTINF:-1,MMN SPORT TV
+http://185.95.184.33:25461/live/120541/20364/213.m3u8
+
+#EXTINF:-1,PARWARDAYI TV HD
+http://185.95.184.33:25461/live/120541/20364/3302.m3u8
+
+#EXTINF:-1,QALLAM TV HD
+http://185.95.184.33:25461/live/120541/20364/3899.m3u8
+
+#EXTINF:-1,IRAQIA SPORT TV
+http://185.95.184.33:25461/live/120541/20364/3908.m3u8
+
+#EXTINF:-1,K24 DOCUMENTARY TV
+http://185.95.184.33:25461/live/120541/20364/4362.m3u8
+
+#EXTINF:-1,TRT 1 TV
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,TRT NEWS/HABER TV
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,TRT MUSIC TV
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,TRT KURDI TV
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,TRT ARABIC TV
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,SKY NEWS TV
+https://stream.skynewsarabia.com/hls/sna.m3u8
+
+#EXTINF:-1,ACTION HOLLYWOOD TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+#EXTINF:-1,CNN TV HD
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1,DASINYA TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1667800&extension=ts
+
+#EXTINF:-1,DASINYA KIDS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1667801&extension=ts
+
+#EXTINF:-1,DASINYA MUSIC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1667802&extension=ts
+
+#EXTINF:-1,DASINYA SPORT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1667803&extension=ts
+
+#EXTINF:-1,DELAL TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1667804&extension=ts
+
+#EXTINF:-1,DEVER TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1667807&extension=ts
+
+#EXTINF:-1,DUHOK TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1667694&extension=ts
+
+#EXTINF:-1,BEIN SPORT NEWS HD
+http://iptvhouse.pro:80/live/7598066813/503118f6f7/544476.m3u8
+
+#EXTINF:-1,BEIN SPORT 1 8K SD
+http://iptvhouse.pro:80/live/7598066813/503118f6f7/544474.m3u8
+
+#EXTINF:-1,BEIN SPORT 2 8K SD
+http://iptvhouse.pro:80/live/7598066813/503118f6f7/544473.m3u8
+
+#EXTINF:-1,NETFLIX ACTION HD
+http://vip2.sharkhost.xyz:80/live/9143315182/7352465335/487989.m3u8
+
+#EXTINF:-1,NETFLIX ACTION 2 HD
+http://vip2.sharkhost.xyz:80/live/9143315182/7352465335/487986.m3u8
+
+#EXTINF:-1,NETFLIX ACTION 3 HD
+http://vip2.sharkhost.xyz:80/live/9143315182/7352465335/487985.m3u8
+
+#EXTINF:-1,NETFLIX ANIME HD
+http://vip2.sharkhost.xyz:80/live/9143315182/7352465335/488002.m3u8
+
+#EXTINF:-1,NETFLIX COMEDY HD
+http://vip2.sharkhost.xyz:80/live/9143315182/7352465335/487974.m3u8
+
+#EXTINF:-1,NETFLIX DRAMA 1 HD
+http://vip2.sharkhost.xyz:80/live/9143315182/7352465335/487994.m3u8
+
+#EXTINF:-1,NETFLIX DRAMA 2 HD
+http://vip2.sharkhost.xyz:80/live/9143315182/7352465335/487993.m3u8
+
+#EXTINF:-1,NETFLIX KIDS HD
+http://vip2.sharkhost.xyz:80/live/9143315182/7352465335/487967.m3u8
+
+#EXTINF:-1,IRAQIA KURDISH
+https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
+
+#EXTINF:-1,IRAQIA NEWS
+https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
+
+#EXTINF:-1,UTV DUHOK HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=638690&extension=ts
+
+#EXTINF:-1,SHAMS TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1666447&extension=ts
+
+#EXTINF:-1,ATV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=196714&extension=ts
+
+#EXTINF:-1,KANAL D HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=196712&extension=ts
+
+#EXTINF:-1,NAT GEO HD
+http://api.353505.xyz:80/live/123/123/528.ts
+
