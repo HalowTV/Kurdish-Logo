@@ -11,7 +11,7 @@ https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
 https://hlspackager.akamaized.net//live//DB//NRT_HD//HLS//NRT_HD-avc1_2500000=10002,mp4a_128000=20000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KURDSAT ( HD)" tvg-logo="https://rebin4k.kanalakan.xyz/uploads/aa8d8697459e078d5bc11fa50fd0be7a.jpeg" group-title="Kurdish TV",KURDSAT ( HD)
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kurdsat News" tvg-logo="https://rebin4k.kanalakan.xyz/uploads/5001fd97ec1096a52c4cea791d38cab9.jpeg" group-title="Kurdish TV",Kurdsat News
+#EXTINF:-1 tvg-id="" tvg-name="KURDSAT NEWS HD" tvg-logo="https://rebin4k.kanalakan.xyz/uploads/5001fd97ec1096a52c4cea791d38cab9.jpeg" group-title="Kurdish TV",KURDSAT NEWS HD 
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rojhelat Tv" tvg-logo="https://rebin4k.kanalakan.xyz/uploads/da8179db4427f4a16b70312101ddc8c4.jpeg" group-title="Kurdish TV",Rojhelat Tv
 https://hlspackager.akamaized.net/live/DB/ROJHELAT/HLS/ROJHELAT-avc1_2500000=10002,mp4a_128000=20000.m3u8
