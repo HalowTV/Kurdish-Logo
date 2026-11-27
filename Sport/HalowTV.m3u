@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="AVA HD" tvg-logo="https://rebin4k.kanalakan.xyz/uploads/56909ba3489d3f83c5400ee13791eddb.jpeg" group-title="Kurdish TV",AVA HD
+#EXTINF:-1 tvg-id="" tvg-name="AVA HD" tvg-logo="https://rebin4k.kanalakan.xyz/uploads/56909ba3489d3f83c5400ee13791eddb.jpeg" group-title="Kurdish TV",AVA Entertainment
 https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kurdstan 24" tvg-logo="https://rebin4k.kanalakan.xyz/uploads/814712523e9bba9483e2c78d48e66d59.jpeg" group-title="Kurdish TV",Kurdstan 24
 https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
