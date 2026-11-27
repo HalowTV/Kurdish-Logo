@@ -1,8 +1,0 @@
-#EXTINF:-1,KU | RUDAW TV
-https://live.rudaw.net/hls/rudaw-tv/master.m3u8
-#EXTINF:-1,KU | AVA MEDIA TV
-https://sematv.org:8443/sematv/embed.html
-#EXTINF:-1,Test Embed
-https://alwanlive.stream/?channel=2
-#EXTINF:-1,Test
-https://alwanlive.stream/?channel=1
