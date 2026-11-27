@@ -9,7 +9,7 @@ https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
 https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NRT TV" tvg-logo="https://rebin4k.kanalakan.xyz/uploads/b38e602815f30679aefc4257a5f3576f.png" group-title="Kurdish TV",NRT TV
 https://hlspackager.akamaized.net//live//DB//NRT_HD//HLS//NRT_HD-avc1_2500000=10002,mp4a_128000=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kurdsat Tv" tvg-logo="https://rebin4k.kanalakan.xyz/uploads/aa8d8697459e078d5bc11fa50fd0be7a.jpeg" group-title="Kurdish TV",Kurdsat Tv
+#EXTINF:-1 tvg-id="" tvg-name="KURDSAT ( HD)" tvg-logo="https://rebin4k.kanalakan.xyz/uploads/aa8d8697459e078d5bc11fa50fd0be7a.jpeg" group-title="Kurdish TV",KURDSAT ( HD)
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kurdsat News" tvg-logo="https://rebin4k.kanalakan.xyz/uploads/5001fd97ec1096a52c4cea791d38cab9.jpeg" group-title="Kurdish TV",Kurdsat News
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
